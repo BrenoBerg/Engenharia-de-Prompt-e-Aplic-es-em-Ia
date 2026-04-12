@@ -1,8 +1,4 @@
+<img width="630" height="361" alt="Captura de tela 2026-03-09 211651" src="https://github.com/user-attachments/assets/b72bfe25-cad9-4cea-b64a-936b2c038ecc" />
+<img width="791" height="461" alt="Captura de tela 2026-03-09 211710" src="https://github.com/user-attachments/assets/f0869f1c-9b21-4fee-b3bf-1b13a6f39f35" />
 
-📌 O que é Engenharia de Prompt? Engenharia de Prompt é a arte e a ciência de comunicar-se eficientemente com IAs generativas (como GPT-4, Claude e Gemini). Não se trata apenas de "fazer perguntas", mas de estruturar contextos que minimizem alucinações e maximizem a precisão técnica. Aplicações Práticas Automação de fluxo de trabalho.
-
-Geração de código e depuração.
-
-Análise de sentimentos e sumarização de dados.
-
-Criação de agentes autônomos e chatbots personalizados.
+Os LLMs leem apenas tokens. A não "separação" correta desses tokens, influência diretamente na resposta da ia.Uma tokenização ineficiente (termos tecnicos incomuns), influência direto em como a resposta vai ser dada pela maquina ( ia).
